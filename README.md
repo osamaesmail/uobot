@@ -24,7 +24,7 @@ You can test our [demo](http://m.me/uobot123) at facebook to see the types of me
 * Require the plugin using composer
 
 ```console
-composer require uo/uobot:dev-master
+composer require uo/uobot
 ```
 
 ## Get Started
