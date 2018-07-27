@@ -13,7 +13,7 @@ uobot is a library for php to develop messenger chatbot using oop, and send all 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development.
+by following this instruction you will send your first message using your messanger chat bot.
 
 ## [Our demo](http://m.me/uobot123) 
 
