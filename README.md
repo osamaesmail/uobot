@@ -52,19 +52,19 @@ UOBot::onMessage('hi',function ($uoBot){
 ```
 
 ## Table of Contents
-* [Get Started](Home)
-* [UOBot functions](UOBot-Functions)
-* [Send Quick Replies](Send-Quick-Replies)
-* [Send Generic Template](Send-generic-template)
-* [Send List Template](Send-List-template)
-* [Send Button Template](Send-Button-template)
-* [Send OpenGraph Template](Send-OpenGraph-template)
-* [Send Receipt Template](Send-Receipt-template)
-* [Send Attachments](Send-Attcahments-template)
-* [Button Types](Button-Types)
-* [Set Get Started Button](Set-Get-Started-Button)
-* [Set Get Greeting Text](Set-Greeting-Text)
-* [Set Get Persistent Menu](Set-Persistent-Menu)
+* [Get Started](https://github.com/osamaesmail/uobot/wiki/Get-Started)
+* [UOBot functions](https://github.com/osamaesmail/uobot/wiki/UOBot-Functions)
+* [Send Quick Replies](https://github.com/osamaesmail/uobot/wiki/Send-Quick-Replies)
+* [Send Generic Template](https://github.com/osamaesmail/uobot/wiki/Send-generic-template)
+* [Send List Template](https://github.com/osamaesmail/uobot/wiki/Send-List-template)
+* [Send Button Template](https://github.com/osamaesmail/uobot/wiki/Send-Button-template)
+* [Send OpenGraph Template](https://github.com/osamaesmail/uobot/wiki/Send-OpenGraph-template)
+* [Send Receipt Template](https://github.com/osamaesmail/uobot/wiki/Send-Receipt-template)
+* [Send Attachments](https://github.com/osamaesmail/uobot/wiki/Send-Attcahments-template)
+* [Button Types](https://github.com/osamaesmail/uobot/wiki/Button-Types)
+* [Set Get Started Button](https://github.com/osamaesmail/uobot/wiki/Set-Get-Started-Button)
+* [Set Get Greeting Text](https://github.com/osamaesmail/uobot/wiki/Set-Greeting-Text)
+* [Set Get Persistent Menu](https://github.com/osamaesmail/uobot/wiki/Set-Persistent-Menu)
 
 
 
