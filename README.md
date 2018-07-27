@@ -52,7 +52,7 @@ UOBot::onMessage('hi',function ($uoBot){
 ```
 
 ## Table of Contents
-* [Get Started](https://github.com/osamaesmail/uobot/wiki/Get-Started)
+* [Get Started](https://github.com/osamaesmail/uobot/wiki/Home)
 * [UOBot functions](https://github.com/osamaesmail/uobot/wiki/UOBot-Functions)
 * [Send Quick Replies](https://github.com/osamaesmail/uobot/wiki/Send-Quick-Replies)
 * [Send Generic Template](https://github.com/osamaesmail/uobot/wiki/Send-generic-template)
